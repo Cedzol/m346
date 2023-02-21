@@ -18,3 +18,7 @@ Delete
 ![Ordner](ordner.png)
 
 ## D
+
+![DB](db.png)
+![index](index.png)
+![php](php.png)
