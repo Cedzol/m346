@@ -90,4 +90,4 @@ Pem 1
 
 Pem 2
 
-![Pem 1](pem_2_working.png)
+![Pem 1](pem_2.png)
