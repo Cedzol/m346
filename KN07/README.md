@@ -29,7 +29,7 @@ Heroku ist definitiv monatlich teurer als Azure oder AWS kombiniert. Jedoch für
 
 Ausgewählt wurde Professional, da Essentials nur bis zu 10 Mitglieder unterstützt.
 
-Die Webseite von Salesforce ist passend zum namen. Es zwingt einen dazu angaben zu machen, service in beanspruchung zu nehmen usw. bevor man überhaupt herausgefunden hat was sie anbieten. Grauenhafte Benutzerexpirience...
+Die Webseite von Salesforce ist passend zum namen. Es zwingt einen dazu angaben zu machen und services in beanspruchung zu nehmen usw. bevor man überhaupt herausgefunden hat was sie anbieten. Grauenhafte Benutzerexpirience...
 
 ![Salesforce](salesforce.png)
 
